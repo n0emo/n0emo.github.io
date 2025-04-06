@@ -1,3 +1,6 @@
 [submodule "chaos"]
 	path = chaos
 	url = https://github.com/n0emo/chaos.git
+[submodule "wasm-c-todo"]
+	path = wasm-c-todo
+	url = https://github.com/n0emo/wasm-c-todo
